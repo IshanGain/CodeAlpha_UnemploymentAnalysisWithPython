@@ -2,7 +2,7 @@ UNEMPLOYMENT ANALYSIS WITH PYTHON:
 - This project builds an interactive dashboard to analyze unemployment rates across Indian states/UTs during 2020, with a special focus on the impact of the COVID‑19 lockdown starting March 2020. The dashboard lets users explore national and regional unemployment trends, identify peaks, and understand patterns that can inform economic and social policy decisions.​​
 
 LIVE DEMO:
-- https://codealpha-unemploymentanalysiswithpython.onrender.com/
+- https://unemploymentanalysiswithpython-2.onrender.com/
 
 FEATURES:
 - Visualizes national unemployment trend over time with a vertical marker for the COVID‑19 lockdown start.
