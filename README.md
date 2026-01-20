@@ -1,4 +1,4 @@
-UNEMPLOYMENT ANALYSIS WITH PYTHON (INTERNSHIP PROJECT BY CODEALPHA):
+UNEMPLOYMENT ANALYSIS WITH PYTHON:
 - This project builds an interactive dashboard to analyze unemployment rates across Indian states/UTs during 2020, with a special focus on the impact of the COVID‑19 lockdown starting March 2020. The dashboard lets users explore national and regional unemployment trends, identify peaks, and understand patterns that can inform economic and social policy decisions.​​
 
 LIVE DEMO:
@@ -11,8 +11,8 @@ FEATURES:
 - Bar chart of average unemployment rate by region to compare states/UTs across India.
 
 INSTALLATION:
-- git clone https://github.com/IshanGain/CodeAlpha_UnemploymentAnalysisWithPython.git
-- cd CodeAlpha_UnemploymentAnalysisWithPython
+- git clone https://github.com/IshanGain/UnemploymentAnalysisWithPython.git
+- cd UnemploymentAnalysisWithPython
 - pip install -r requirements.txt
 
 - Ensure Python and all dependencies in requirements.txt (e.g., pandas, plotly, dash/streamlit) are installed.
